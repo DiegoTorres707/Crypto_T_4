@@ -1,0 +1,3 @@
+$ cc     idea.c   -o idea
+$ ./idea 0123456789abcdef Paris.JPG 
+
